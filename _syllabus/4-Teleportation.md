@@ -1,6 +1,6 @@
 ---
 week: 4
-day: September 07
+day: September 11
 title: Quantum Teleportation
 ---
 

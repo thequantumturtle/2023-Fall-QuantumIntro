@@ -1,6 +1,6 @@
 ---
 week: 9
-day : September 26
+day : September 27
 title: Quantum Phase Estimation
 ---
 

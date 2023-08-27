@@ -1,6 +1,6 @@
 ---
 week: 13
-day : October 10
+day : October 11
 title: Shor's Algorithm
 ---
 

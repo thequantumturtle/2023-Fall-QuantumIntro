@@ -1,6 +1,6 @@
 ---
 week: 11
-day : October 03
+day : October 04
 title: Quantum Search
 ---
 
